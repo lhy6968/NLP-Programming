@@ -15,3 +15,15 @@ Specifically, the inputs and outputs of our project are the following:
 • Review Rating Prediction: Review texts → Review Rating (an integer ranging from 1- 10)
 
 For the tasks our team proposed, we accomplished all of them mentioned in the proposal, with only little modifications shown below.
+
+Acquired and pre-processed data: DONE.
+
+Built Seq2Seq model with RNN / LSTM for Text Summarization: DONE.
+
+Built Seq2Seq model with Transformer for Text Summarization: DONE.
+
+Fine-tuned Seq2Seq model with BERT for Text Summarization: DONE. But we imple- mented BART instead of BERT.
+
+Built an RNN model for Review Rating Pre- diction: DONE.
+
+Fine-tuned BERT model for Review Rating Prediction: DONE.
