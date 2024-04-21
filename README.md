@@ -9,7 +9,9 @@ Firstly, we tackle the challenge of Product Re- view Summarization. Given that m
 Secondly, we shift our focus on the review rat- ings of products, which is a trending research topic in recommender systems. Most researchers tend to analyze and predict ratings based on user infor- mation (such as using latent factor model) rather than utilizing contextual information. Therefore, we aim to bridge this gap by leveraging NLP mod- els to find out useful insights from textual content information.
 
 Specifically, the inputs and outputs of our project are the following:
+
 • Review Summarizer: Review texts → Re- view Summarization
+
 • Review Rating Prediction: Review texts → Review Rating (an integer ranging from 1- 10)
 
 For the tasks our team proposed, we accomplished all of them mentioned in the proposal, with only little modifications shown below.
